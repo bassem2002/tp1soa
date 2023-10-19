@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cinema>
+
+  <Film id='Lb78' type='comédie'>
+
+    <titre>Les Bronzes</titre>
+
+    <annee>1978</annee>
+
+    <realisateur>Patrice Leconte</realisateur>
+
+  </Film>
+
+  <Producteur>
+
+    <nom>Yves Rousset-Rouard</nom>
+
+    <Film id='Lb78' type="comédie">
+
+      <titre>Les Bronzes</titre>
+
+      <annee>1978</annee>
+
+      <realisateur>Patrice Leconte</realisateur>
+
+    </Film>
+
+  </Producteur>
+
+</cinema>
+
